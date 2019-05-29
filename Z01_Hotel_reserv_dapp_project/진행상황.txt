@@ -1,0 +1,31 @@
+
+- DB 테이블에 대응시켜 VO 작성
+
+- DB 테이블에 대응시켜 DAO 예비 작성..
+
+- DBConn => Amazon 클라우드 DB와 로컬 oracle DB와 연동시킴.
+
+참고 사이트
+2019-05-17 (금)
+ // 호텔 예약 DB 예시
+ https://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=qna_db&wr_id=186770&sca=&sfl=wr_subject&stx=%BF%B9%BE%E0&sop=and
+ // 수수료 지급 방식에 대한 특허?
+ https://patents.google.com/patent/KR20060005468A/ko
+
+2019-05-20 (월)
+ // 호텔 예약 솔루션 판매 예시
+ https://www.cgimall.co.kr/detail.cgi?number=218#detail_tap_02
+ // API (DB접근 없이 데이터를 연동하는 방법)
+ https://yslab.kr/111
+ // PG(Payment Gateway) 서비스 1
+ https://www.yamestyle.com/271
+ // PG(Payment Gateway) 서비스 2
+ https://shoppingmalltip.tistory.com/42
+ // 부트스트랩 템플릿 참고
+ https://startbootstrap.com/templates/modern-business/
+ // 결제대행사 나무위키
+ https://namu.wiki/w/%EA%B2%B0%EC%A0%9C%EB%8C%80%ED%96%89%EC%82%AC
+ // VAN사와 PG사
+ http://blog.naver.com/PostView.nhn?blogId=easyidea&logNo=220666590741
+ // PG사의 결제 수수료는 어떻게 결정되는가
+ https://medium.com/@bootpay.co.kr/pg-%EA%B2%B0%EC%A0%9C-%EC%88%98%EC%88%98%EB%A3%8C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B2%B0%EC%A0%95%EB%90%98%EB%8A%94%EA%B0%80-d9c43aaa2f83
